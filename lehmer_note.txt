@@ -1,0 +1,17 @@
+# cpp.main.p1
+
+next=(current×a+c)modm 
+
+algorithm formula for pseudorandom
+
+| Parameter | Value |
+| --- | --- |
+| `a` | 1103515245 |
+| `c` | 12345 |
+| `m` | 2³¹ (2147483648) |
+
+language inbuilt values for pseudo-random elements
+
+Xn + 1 = ( aXn + c ) mod m
+
+lehmer formula
